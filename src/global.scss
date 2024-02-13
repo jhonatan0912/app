@@ -25,7 +25,8 @@
 // @import "@ionic/angular/css/text-transformation.css";
 // @import "@ionic/angular/css/flex-utils.css";
 
-body {
+body,
+app-root {
   width: 100%;
   height: 100%;
   position: fixed;
